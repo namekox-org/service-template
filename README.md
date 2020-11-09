@@ -3,6 +3,7 @@
 
 # Migration
 > namekox alembic revision --autogenerate -m "init"
+
 > namekox alembic upgrade head
 
 # Running
