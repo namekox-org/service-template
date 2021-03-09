@@ -1,4 +1,4 @@
-PyMySQL>=0.10.1
+PyMySQL==0.10.1
 namekox-timer
 namekox-webserver
 namekox-sqlalchemy
